@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './navbar.css';
-import EnquiryForm from '../Contact/Enquiryform';
-import FeedbackForm from '../Contact/Feedbackform';
+import EnquiryForm from '../Contact/EnquiryForm';
+import FeedbackForm from '../Contact/FeedbackForm';
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);

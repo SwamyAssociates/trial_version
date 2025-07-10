@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Navbar from './components/Navbar/navbar.jsx';
-import Footer from './components/Footer/footer.jsx';
-import EnquiryForm from './components/Contact/Enquiryform.jsx';
-import FeedbackForm from './components/Contact/Feedbackform.jsx';
+import Navbar from './components/Navbar/Navbar.jsx';
+import Footer from './components/Footer/Footer.jsx';
+import EnquiryForm from './components/Contact/EnquiryForm.jsx';
+import FeedbackForm from './components/Contact/FeedbackForm.jsx';
 import Carousel from './components/Carousel/Carousel.jsx';
 import Services from './components/Services/Services.jsx';
 
