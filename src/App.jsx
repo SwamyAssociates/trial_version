@@ -3,7 +3,7 @@ import Navbar from './components/Navbar/navbar.jsx';
 import Footer from './components/Footer/footer.jsx';
 import EnquiryForm from './components/Contact/Enquiryform.jsx';
 import FeedbackForm from './components/Contact/Feedbackform.jsx';
-import Carousel from './components/Carousel/carousel.jsx';
+import Carousel from './components/Carousel/Carousel.jsx';
 import Services from './components/Services/Services.jsx';
 
 const App = () => {
